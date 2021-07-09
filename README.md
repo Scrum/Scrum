@@ -3,7 +3,8 @@
 
 <p align="center"><span>I'm a Web and Open Source Developer.</span></p>
 
-<table><tr><td valign="top" width="50%">
+<table><tr> <td valign="top" width="50%">
+	
 
 **Owner**
 
@@ -18,18 +19,8 @@
 	</li>
 </ul>
 	
-**Member**
-	
+</td><td valign="top" width="50%" rowspan="2">
 
-<ul>
-	<li>
-		<img src="https://avatars.githubusercontent.com/u/1530011?s=24&v=4" align="top">
-		<a href="https://github.com/angular-ui" target="_blank">angular-ui</a> - The companion suite(s) to the AngularJS framework.
-	</li>
-</ul>
-	
-</td><td valign="top" width="50%">
-	
 **Collaborator**
 	
 <ul>
@@ -46,7 +37,19 @@
 		<a href="https://github.com/reshape" target="_blank">reshape</a> - Transform html with javascript plugins.
 	</li>
 </ul>
+
+</td></tr><tr><td valign="top" width="50%">
+
+**Member**
 	
+
+<ul>
+	<li>
+		<img src="https://avatars.githubusercontent.com/u/1530011?s=24&v=4" align="top">
+		<a href="https://github.com/angular-ui" target="_blank">angular-ui</a> - The companion suite(s) to the AngularJS framework.
+	</li>
+</ul>
+
 </td></tr></table>
 
 <!--<div align="center">
