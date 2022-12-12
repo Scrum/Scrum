@@ -38,19 +38,7 @@
 	</li>
 </ul>
 
-</td></tr><tr><td valign="top" width="50%">
-
-**Member**
-	
-
-<ul>
-	<li>
-		<img src="https://avatars.githubusercontent.com/u/1530011?s=24&v=4" align="top">
-		<a href="https://github.com/angular-ui" target="_blank">angular-ui</a> - The companion suite(s) to the AngularJS framework.
-	</li>
-</ul>
-
-</td></tr></table>
+</td></tr><tr></tr></table>
 <h2>💰 Sponsor Program</h2>
 
  - [**PayPal**](https://paypal.me/scrumpay)
