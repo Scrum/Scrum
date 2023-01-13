@@ -13,10 +13,6 @@
 		<img src="https://avatars.githubusercontent.com/u/13065692?s=24&v=4" align="top">
 		<a href="https://github.com/posthtml" target="_blank">posthtml</a> - HTML/XML processing tools.
 	</li>
-	<li>
-		<img src="https://avatars.githubusercontent.com/u/19793826?s=24&v=4" align="top">
-		<a href="https://github.com/post" target="_blank">post</a> - Post processing tools.
-	</li>
 </ul>
 	
 </td><td valign="top" width="50%" rowspan="2">
@@ -31,10 +27,6 @@
 	<li>
 		<img src="https://avatars.githubusercontent.com/u/6128107?s=24&v=4" align="top">
 		<a href="https://github.com/vuejs" target="_blank">vuejs</a> - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
-	</li>
-	<li>
-		<img src="https://avatars.githubusercontent.com/u/20820714?s=24&v=4" align="top">
-		<a href="https://github.com/reshape" target="_blank">reshape</a> - Transform html with javascript plugins.
 	</li>
 </ul>
 
