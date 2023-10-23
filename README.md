@@ -31,10 +31,6 @@
 </ul>
 
 </td></tr><tr></tr></table>
-<h2>💰 Sponsor Program</h2>
-
- - [**PayPal**](https://paypal.me/scrumpay)
-
 
 <!--
 **Scrum/scrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
